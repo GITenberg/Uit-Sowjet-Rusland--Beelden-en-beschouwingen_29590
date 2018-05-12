@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4174
     wikipedia: http://nl.wikipedia.org/wiki/Henriette_Roland_Holst
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29590#Uit-Sowjet-Rusland--Beelden-en-beschouwingen
 gutenberg_issued: '2009-08-03'
 gutenberg_type: Text
 identifiers:
