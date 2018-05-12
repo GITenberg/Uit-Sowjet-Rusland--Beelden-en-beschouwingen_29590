@@ -1,0 +1,35 @@
+_repo: Uit-Sowjet-Rusland--Beelden-en-beschouwingen_29590
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roland Holst-Van der Schalk, Henriette
+    aliases:
+    - Holst, Henriette van der Schalk Roland
+    - Roland Holst, Henriëtte
+    - Roland Holst-van der Schalk, Henriëtte Goverdina Anna
+    - Schalk, Henriette Roland Holst van der
+    - Schalk, Henriette Roland Holst-Van der
+    birthdate: 1869
+    deathdate: 1952
+    gutenberg_agent_id: '4174'
+    url: http://www.gutenberg.org/2009/agents/4174
+    wikipedia: http://nl.wikipedia.org/wiki/Henriette_Roland_Holst
+description: ''
+gutenberg_issued: '2009-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29590'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Soviet Union -- Social conditions'
+- !lcc 'HX'
+- !lcsh 'Soviet Union -- Description and travel'
+- !lcsh 'Soviet Union -- Social conditions'
+title: 'Uit Sowjet-Rusland: Beelden en beschouwingen'
+url: http://www.gutenberg.org/ebooks/29590
